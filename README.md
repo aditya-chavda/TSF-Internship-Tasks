@@ -1,4 +1,4 @@
-# TSF-Internship-Tasks
+# GRIP at The Sparks Foundation <img src="https://thesparksfoundationsingapore.org/images/logo_small.png" alt="TSF LOGO" width=50/>
 A repository for showcasing the task to be performed as a data science intern at [The Sparks Foundation.](https://www.thesparksfoundationsingapore.org/)
 
   * ### Exploring Supervised Learning
